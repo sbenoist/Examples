@@ -1,0 +1,11 @@
+﻿style_1;style_2;style_3;dest;org;comp_cotton;comp_eleastane;comp_linen;comp_wool;comp_viscose;comp_polyester;comp_acrylic;comp_nylon;ecotoxity_dbeq;weight_total_g;water_use_l;co2_kgco2eq_fibre;co2_kgco2eq_trsp;co2_kgco2eq_spinning;co2_kgco2eq_bleaching;co2_kgco2eq_dyeing;co2_kgco2eq_prod;co2_kgco2eq_drying;co2_kgco2eq_total
+tshirt;standard;sweden_panel;SE;CN;1;0;0;0;0;0;0;0;0;110;2400;0,24;0,24;0,8;0,08;0;0,4;0,18;1,94
+jeans;standard;sweden_panel;SE;CN;0,97;0,03;0;0;0;0;0;0;0;447;1380;0,14;0,12;0,14;0;0,08;0;0,08;0,56
+tshirt;standard;open_lca;DE;BD;1;0;0;0;0;0;0;0;0,1;0;33780;0;0,24;0;0;0;8,1;0;8,34
+NA;agg;bsr;NA;NA;1;0;0;0;0;0;0;0;0;1000;0;11,88;0;0;0;0;0;0,12;12
+NA;agg;bsr;NA;NA;0;0;1;0;0;0;0;0;0;1000;0;4,752;0;0;0;0;0;0,048;4,8
+NA;agg;bsr;NA;NA;0;0;0;1;0;0;0;0;0;1000;0;9,504;0;0;0;0;0;0,096;9,6
+NA;agg;bsr;NA;NA;0;0;0;0;1;0;0;0;0;1000;0;8,316;0;0;0;0;0;0,084;8,4
+NA;agg;bsr;NA;NA;0;0;0;0;0;1;0;0;0;1000;0;14,256;0;0;0;0;0;0,144;14,4
+NA;agg;bsr;NA;NA;0;0;0;0;0;0;1;0;0;1000;0;13,76;0;0;0;0;10;0,24;24
+NA;agg;bsr;NA;NA;0;0;0;0;0;0;0;1;0;1000;0;0;0;0;0;0;11,88;0,12;12
